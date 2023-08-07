@@ -1,0 +1,26 @@
+.bg-genres {
+    background-color: black !important;
+    color: ghostwhite !important;
+    border: none !important; 
+}
+
+.btn-edit {
+    background-color: #4169E1;
+}
+
+.btn-trash {
+    background-color: red;
+}
+
+.fa-pen-to-square {
+    color: #fff;
+}
+
+.fa-trash-can {
+    color: #fff;
+    
+}
+
+.input-genres {
+    border-radius: 5px !important;
+}

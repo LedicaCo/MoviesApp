@@ -1,0 +1,39 @@
+.genres-title {
+    color: #e6c619 !important;
+}
+
+.actors-title {
+    color: #e6c619 !important;
+}
+
+.directors-title {
+    color: #e6c619 !important;
+}
+
+.btn-save {
+    background: none !important;
+    color: #e6c619 !important;
+    border: 1px solid #e6c619 !important;
+    border-radius: 7px !important;
+}
+
+.btn-save:hover {
+    background: green !important;
+    color: #fff !important;
+    outline: none !important;
+    border: none !important;
+}
+
+.close-btn {
+    background: none !important;
+    color: #D80000  !important;
+    border: 1px solid #D80000  !important;
+    border-radius: 7px !important;
+}
+
+.close-btn:hover {
+    background: #D80000  !important;
+    color: #fff !important;
+    outline: none !important;
+    border: none !important;
+}

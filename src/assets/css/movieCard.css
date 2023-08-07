@@ -1,0 +1,15 @@
+.movie-card {
+    border: none !important;
+}
+
+.card-body {
+    background: #080808;
+}
+
+.movie-title {
+    color: #e6c619;
+}
+
+.card-text {
+    color: #b9b8b3;
+}

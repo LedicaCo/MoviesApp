@@ -1,0 +1,27 @@
+.movie-title {
+    color: #e6c619 !important;
+}
+
+.genre-item {
+    border-radius: 5px !important;
+    border: 0.5px solid #c0c0c0 !important;
+}
+.ry {
+    color: #c0c0c0 !important;
+}
+
+.ry-subtitle {
+    color: #e6c619 !important;
+}
+
+.text-synopsis {
+    color: #c0c0c0 !important;
+}
+
+.directors-title {
+    color: #e6c619 !important;
+}
+
+.actors-title {
+    color: #e6c619 !important;
+}

@@ -1,0 +1,22 @@
+.page-directors {
+    color: #e6c619 !important;
+}
+
+.directors-list {
+    padding: 0 !important;
+}
+
+.add-director {
+    background: none !important;
+    outline: none !important;
+    border: 1px solid #e6c619 !important;
+    border-radius: 7px !important;
+    color: #e6c619 !important;
+}
+
+.add-director:hover {
+    background: green !important;
+    color: #fff !important;
+    outline: none !important;
+    border: none !important;
+}

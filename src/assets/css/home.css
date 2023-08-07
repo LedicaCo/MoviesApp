@@ -1,0 +1,22 @@
+.btn-add-movie {
+    background: none !important;
+    border-radius: 7px;
+    outline: none !important;
+    border: 0.5px solid gold !important;
+    color: gold !important;
+}
+
+.btn-add-movie:hover {
+    background: green !important;
+    outline: none !important;
+    border: none !important;
+    color: #fff !important;
+}
+
+.movies-title {
+    color: #e6c619;
+}
+
+.filter-genre-title {
+    color: #e6c619;
+}

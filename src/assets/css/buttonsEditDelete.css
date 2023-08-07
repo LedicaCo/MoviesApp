@@ -1,0 +1,18 @@
+.fa-pen-to-square {
+    color: #fff !important;
+}
+
+.fa-trash-can {
+    color: #fff !important;
+}
+
+.input-edit-btn {
+    background: #1E90FF !important;
+    outline: none !important;
+    border-radius: 5px !important;
+}
+.input-delete-btn {
+    background: red !important;
+    outline: none !important;
+    border-radius: 5px !important;
+}

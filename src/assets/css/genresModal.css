@@ -1,0 +1,66 @@
+.modal__title {
+    color: #ffd700;
+}
+
+.modal-content {
+    background-color: rgb(16,16,16) !important;
+}
+
+.bg-input {
+    background-color: black !important;
+    color: ghostwhite !important;
+    border: none !important;
+}
+
+.input__btn {
+    border: none !important;
+    background-color: green !important;
+}
+
+.input__btn:hover {
+    background-color: #006600 !important;
+}
+
+.footer-modal {
+    margin-bottom: 15px;
+    padding: 0 20px;
+    
+}
+
+.divider {
+    width: 100%;
+    border-bottom: 0.5px solid #fff;
+
+}
+
+.genre-close-btn {
+    width: 100px;
+    background: none !important;
+    outline: none !important;
+    border: 1px solid #D80000 !important;
+    border-radius: 7px !important;
+    color: #D80000 !important;
+    float: right;
+    margin-top: 15px;
+}
+
+.genre-close-btn:hover {
+    background: #D80000 !important;
+    outline: none !important;
+    border: none !important;
+    color: #fff !important;
+}
+
+.bxs-x-square {
+    color: #ffd700 !important;
+    cursor: pointer;
+}
+
+.bxs-x-square:hover {
+    color: orange !important;
+    font-size: 1.1em;
+    transition: all .3s ease;
+}
+
+
+

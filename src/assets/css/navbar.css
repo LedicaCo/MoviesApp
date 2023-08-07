@@ -1,0 +1,22 @@
+.bx-camera-movie {
+    color: #e6c619 !important;
+    font-size: 1.5em;
+}
+.bg.black {
+    color: #000000 !important;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    display: flex;
+    align-items: center;
+    color: #e6c619 !important;
+}
+
+.navbar-item {
+    color: #c0c0c0 !important;
+}
+
+.navbar-item:hover {
+    color: #e6c619 !important;
+}
